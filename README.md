@@ -33,13 +33,6 @@ This repository contains all materials for my project on detecting up to **28 em
 
 ---
 
-## Demo
-
-Run `05_gradio_demo.ipynb`, then click the link that appears (e.g., `https://xxxx.gradio.live`).  
-Type any text and the page will show the three most likely emotions and their confidence scores.
-
----
-
 ## Citation
 
 *GoEmotions* — D. Demszky *et al.* “GoEmotions: A Dataset of Fine‑Grained Emotions.” ACL 2020.  
