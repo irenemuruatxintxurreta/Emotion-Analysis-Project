@@ -25,11 +25,11 @@ This repository contains all materials for my project on detecting up to **28 em
 
 | Notebook | Purpose |
 |----------|---------|
-| `01_svm_baseline.ipynb` | Build TF‑IDF features and train a Support Vector Machine baseline |
-| `02_bert_finetune.ipynb` | Fine‑tune BERT on GoEmotions |
-| `03_roberta_finetune.ipynb` | Fine‑tune RoBERTa (best model) |
-| `04_domain_shift_eval.ipynb` | Zero‑shot evaluation on a Twitter emotion dataset |
-| `05_gradio_demo.ipynb` | Launch the interactive web demo (top‑3 emotions) |
+| `1_SUPPORT_VECTOR_MACHINE.ipynb` | Build TF‑IDF features and train a Support Vector Machine baseline |
+| `2_BERT.ipynb` | Fine‑tune BERT on GoEmotions |
+| `3_ROBERTA.ipynb` | Fine‑tune RoBERTa (best model) |
+| `4_Emotion_Model_Domain_Shift_Evaluation (2).ipynb` | Zero‑shot evaluation on a Twitter emotion dataset |
+| `5_INTERACTIVE_DEMO_GRADIO.ipynb` | Launch the interactive web demo (top‑3 emotions) |
 
 ---
 
