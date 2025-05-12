@@ -19,7 +19,7 @@ All experiments use the GoEmotions dataset; the best model is demonstrated in an
 
 Run the notebooks **in numeric order** to follow the full process:
 
-1. Open `notebooks/01_svm_baseline.ipynb` → click **Open in Colab** → **Runtime ▶ Run all**.  
+1. Open [1_SUPPORT_VECTOR_MACHINE.ipynb](notebooks/1_SUPPORT_VECTOR_MACHINE.ipynb) → click **Open in Colab** → **Runtime ▶ Run all**.  
    This trains the word‑count + SVM baseline.
 
 2. Repeat for  
