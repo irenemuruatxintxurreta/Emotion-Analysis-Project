@@ -23,12 +23,12 @@ Run the notebooks **in numeric order** to follow the full process:
    This trains the word‑count + SVM baseline.
 
 2. Repeat for  
-   `02_bert_finetune.ipynb` (fine‑tunes BERT)  
-   `03_roberta_finetune.ipynb` (fine‑tunes RoBERTa)  
+   [2_BERT.ipynb](notebooks/2_BERT.ipynb) (fine‑tunes BERT)  
+   [3_ROBERTA.ipynb] (notebooks/2_ROBERTA.ipynb) (fine‑tunes RoBERTa)  
 
 3. Optional:  
-   * `04_domain_shift_eval.ipynb` tests the best model on Twitter data.  
-   * `05_gradio_demo.ipynb` launches the interactive web demo.
+   * [4_Emotion_Model_Domain_Shift_Evaluation (2).ipynb](notebooks/4_Emotion_Model_Domain_Shift_Evaluation (2).ipynb) tests the best model on Twitter data.  
+   * [5_INTERACTIVE_DEMO_GRADIO.ipynb](notebooks/5_INTERACTIVE_DEMO_GRADIO.ipynb) launches the interactive web demo.
 
 Each notebook installs its own Python packages automatically the first time you run it.
 
