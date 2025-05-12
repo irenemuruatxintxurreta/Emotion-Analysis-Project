@@ -55,4 +55,8 @@ Each notebook installs its own Python packages automatically the first time you 
 
 ## License
 
-MIT License
+Code and notebooks in this repository are released under the MIT License.
+
+GoEmotions dataset is distributed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+
+The pre-trained BERT and RoBERTa models from Hugging Face are under the Apache 2.0 License.
