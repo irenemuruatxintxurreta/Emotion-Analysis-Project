@@ -24,7 +24,7 @@ Run the notebooks **in numeric order** to follow the full process:
 
 2. Repeat for  
    [2_BERT.ipynb](notebooks/2_BERT.ipynb) (fine‑tunes BERT)  
-   [3_ROBERTA.ipynb] (notebooks/2_ROBERTA.ipynb) (fine‑tunes RoBERTa)  
+   [3_ROBERTA.ipynb](notebooks/3_ROBERTA.ipynb) (fine‑tunes RoBERTa)  
 
 3. Optional:  
    * [4_Emotion_Model_Domain_Shift_Evaluation (2).ipynb](notebooks/4_Emotion_Model_Domain_Shift_Evaluation (2).ipynb) tests the best model on Twitter data.  
