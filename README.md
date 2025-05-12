@@ -47,9 +47,55 @@ Each notebook installs its own Python packages automatically the first time you 
 
 ## Citation
 
-*GoEmotions* — D. Demszky *et al.* “GoEmotions: A Dataset of Fine‑Grained Emotions.” ACL 2020.  
-*BERT* — Devlin *et al.*, NAACL 2019.  
-*RoBERTa* — Liu *et al.*, arXiv 2019.
+## Citation
+
+If you use this project or its components in your research, please cite the following:
+
+- **GoEmotions**  
+  Demszky, M., Movshovitz-Attias, D., Ko, M., & McAuley, J. (2020). _GoEmotions: A Dataset of Fine-Grained Emotions._  
+  **ACL 2020**  
+  ```bibtex
+  @inproceedings{demszky-etal-2020-goemotions,
+    title     = {GoEmotions: A Dataset of Fine-Grained Emotions},
+    author    = {Demszky, Max and Movshovitz-Attias, Yacine and Ko, Mark and McAuley, Julian J.},
+    booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
+    year      = {2020}
+  }
+
+-**BERT**
+  Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2019). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.
+**NAACL-HLT 2019**
+@inproceedings{devlin-etal-2019-bert,
+  title     = {BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding},
+  author    = {Devlin, Jacob and Chang, Ming-Wei and Lee, Kenton and Toutanova, Kristina},
+  booktitle = {Proceedings of NAACL-HLT},
+  year      = {2019}
+}
+
+**RoBERTa**
+Liu, Y., Ott, M., Goyal, N., Du, J., Joshi, M., Chen, D., Levy, O., Lewis, M., Zettlemoyer, L., & Stoyanov, V. (2019). RoBERTa: A Robustly Optimized BERT Pretraining Approach.
+**arXiv preprint arXiv:1907.11692**
+@article{liu2019roberta,
+  title   = {RoBERTa: A Robustly Optimized BERT Pretraining Approach},
+  author  = {Liu, Yinhan and Ott, Myle and Goyal, Naman and Du, Jingfei and Joshi, Mandar and Chen, Danqi and Levy, Omer and Lewis, Mike and Zettlemoyer, Luke and Stoyanov, Veselin},
+  journal = {arXiv preprint arXiv:1907.11692},
+  year    = {2019}
+}
+
+**Hugging Face Transformers**
+Wolf, T. et al. (2020). Transformers: State-of-the-Art Natural Language Processing.
+**Journal of Machine Learning Research**
+
+@article{wolf-etal-2020-transformers,
+  title   = {Transformers: State-of-the-Art Natural Language Processing},
+  author  = {Wolf, Thomas and Debut, Lysandre and Sanh, Victor and Chaumond, Julija and Delangue, Clement and Moi, Anthony and Cistac, Pierric and Rault, Tim and Louf, Rémi and Funtowicz, Morgan and Brew, Jamie},
+  journal = {Journal of Machine Learning Research},
+  volume  = {21},
+  number  = {107},
+  pages   = {1--8},
+  year    = {2020}
+}
+
 
 ---
 
