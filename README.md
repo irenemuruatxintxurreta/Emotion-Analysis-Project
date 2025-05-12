@@ -37,11 +37,11 @@ Each notebook installs its own Python packages automatically the first time you 
 
 | Notebook | Purpose |
 |----------|---------|
-| `1_SUPPORT_VECTOR_MACHINE.ipynb` | Build TF‑IDF features and train a Support Vector Machine baseline |
-| `2_BERT.ipynb` | Fine‑tune BERT on GoEmotions |
-| `3_ROBERTA.ipynb` | Fine‑tune RoBERTa (best model) |
-| `4_Emotion_Model_Domain_Shift_Evaluation (2).ipynb` | Test the trained model on a Twitter emotion dataset (no extra training) |
-| `5_INTERACTIVE_DEMO_GRADIO.ipynb` | Launch a small web page that shows the model’s top‑3 emotions |
+| [1_SUPPORT_VECTOR_MACHINE.ipynb](notebooks/1_SUPPORT_VECTOR_MACHINE.ipynb) | Build TF‑IDF features and train a Support Vector Machine baseline |
+| [2_BERT.ipynb](notebooks/2_BERT.ipynb) | Fine‑tune BERT on GoEmotions |
+| [3_ROBERTA.ipynb](notebooks/3_ROBERTA.ipynb) | Fine‑tune RoBERTa (best model) |
+| [4_Emotion_Model_Domain_Shift_Evaluation.ipynb](notebooks/4_Emotion_Model_Domain_Shift_Evaluation.ipynb) | Test the trained model on a Twitter emotion dataset (no extra training) |
+| [5_INTERACTIVE_DEMO_GRADIO.ipynb](notebooks/5_INTERACTIVE_DEMO_GRADIO.ipynb) | Launch a small web page that shows the model’s top‑3 emotions |
 
 ---
 
