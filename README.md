@@ -47,8 +47,6 @@ Each notebook installs its own Python packages automatically the first time you 
 
 ## Citation
 
-## Citation
-
 If you use this project or its components in your research, please cite the following:
 
 - **GoEmotions**  
