@@ -54,13 +54,13 @@ If you use this project or its components in your research, please cite the foll
 - **GoEmotions**  
   Demszky, M., Movshovitz-Attias, D., Ko, M., & McAuley, J. (2020). _GoEmotions: A Dataset of Fine-Grained Emotions._  
 
--**BERT**
+- **BERT**
   Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2019). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.
 
--**RoBERTa**
+- **RoBERTa**
 Liu, Y., Ott, M., Goyal, N., Du, J., Joshi, M., Chen, D., Levy, O., Lewis, M., Zettlemoyer, L., & Stoyanov, V. (2019). RoBERTa: A Robustly Optimized BERT Pretraining Approach.
 
-**Hugging Face Transformers**
+- **Hugging Face Transformers**
 Wolf, T. et al. (2020). Transformers: State-of-the-Art Natural Language Processing.
 
 ---
